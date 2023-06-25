@@ -6,14 +6,32 @@
 
 * **Greasy Fork | [BiliBili Custom Subtitles](https://greasyfork.org/en/scripts/469229-bilibili-custom-subtitles)**
 
+---
+
+
+
 ### Manual Installation
 
 * **Open :** raw [bcs.js](https://raw.githubusercontent.com/AnimeAbout/BiliBili-Custom-Subtitles/main/bcs.js) and **Copy** all content in bcs.js
 * **Open :** Tampermonkey Extension
-
 * **Goto :** Dashboard
 * **Click : +** Button and **Paste** replace all content
-
 * **Save : Ctrl + s**
 
+---
+
+
+
+### NEW | Panel 0.2 Update
+
+![1687669195808](image/readme/1687669195808.png)
+
+
+
+---
+
+### Preview
+
 ![1687434688433](image/readme/1687434688433.png)
+
+![1687669408799](image/readme/1687669408799.png)
