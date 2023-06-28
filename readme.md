@@ -1,14 +1,10 @@
-### Require
-
-* **Tempermonkey Extension | [https://www.tampermonkey.net/](https://www.tampermonkey.net/)**
+### Require**Tempermonkey Extension | [https://www.tampermonkey.net/](https://www.tampermonkey.net/)**
 
 ### Auto Installation
 
 * **Greasy Fork | [BiliBili Custom Subtitles](https://greasyfork.org/en/scripts/469229-bilibili-custom-subtitles)**
 
 ---
-
-
 
 ### Manual Installation
 
@@ -20,13 +16,11 @@
 
 ---
 
+### NEW | Panel 0.2 Update1
 
+![1687976977930](image/readme/1687976977930.png)
 
-### NEW | Panel 0.2 Update
-
-![1687669195808](image/readme/1687669195808.png)
-
-
+![1687976835616](image/readme/1687976835616.png)
 
 ---
 
