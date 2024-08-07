@@ -2,11 +2,12 @@
 
 * **Tempermonkey Extension | [https://www.tampermonkey.net/](https://www.tampermonkey.net/)**
 
+---
+
 ### Auto Installation
 
-* **Greasy Fork | [BiliBili Custom Subtitles](https://greasyfork.org/en/scripts/469229-bilibili-custom-subtitles)**
-
----
+* **Greasy Fork | [BiliBili Custom Subtitles
+  ](https://greasyfork.org/en/scripts/469229-bilibili-custom-subtitles)**
 
 ### Manual Installation
 
@@ -33,3 +34,7 @@
 ![1723017740123](image/readme/1723017740123.png)![1723017750453](image/readme/1723017750453.png)
 
 ![1723017757202](image/readme/1723017757202.png)
+
+---
+
+โค้ดค่อนข้างที่จะเละครับ ไว้มีเวลา จะมานั่งเขียนใหม่อยู่
