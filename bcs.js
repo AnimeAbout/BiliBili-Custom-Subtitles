@@ -3,8 +3,8 @@
 // @namespace    https://github.com/AnimeAbout/BiliBili-Custom-Subtitles
 // @version      0.3.1
 // @description  Custom styles for BiliBili player subtitles
-// @author       AniDev
-// @icon         https://raw.githubusercontent.com/AnimeAbout/BiliBili-Custom-Subtitles/main/image/readme/1687669195808.png
+// @author       AniMatsu
+// @icon         https://raw.githubusercontent.com/AnimeAbout/BiliBili-Custom-Subtitles/main/image/readme/1723017597417.png
 // @match        /\:\/\/.*.bili.*\/play\/.*$/
 // @include      /\:\/\/.*.bili.*\/play\/.*$/
 // @grant        GM_addStyle
