@@ -1,4 +1,4 @@
-### Require 
+### Require
 
 * **Tempermonkey Extension | [https://www.tampermonkey.net/](https://www.tampermonkey.net/)**
 
@@ -18,16 +18,18 @@
 
 ---
 
-### NEW | Panel 0.2 Update1
+### NEW | Panel 0.3 Update1
 
-![1687976977930](image/readme/1687976977930.png)
+![1723017597417](image/readme/1723017597417.png)
 
-![1687976835616](image/readme/1687976835616.png)
+![1723017602872](image/readme/1723017602872.png)
 
 ---
 
 ### Preview
 
-![1687434688433](image/readme/1687434688433.png)
+![1723017724329](image/readme/1723017724329.png)
 
-![1687669408799](image/readme/1687669408799.png)
+![1723017740123](image/readme/1723017740123.png)![1723017750453](image/readme/1723017750453.png)
+
+![1723017757202](image/readme/1723017757202.png)
